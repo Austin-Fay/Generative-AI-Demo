@@ -94,9 +94,8 @@ This project relies entirely on OpenAI's GPT and DALL·E models for both text-ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-image-generator.git
-   cd ai-image-generator
-
+   git clone https://github.com/Austin-Fay/Generative-AI-Demo.git
+   cd Generative-AI-Demo
 
 2. Create and activate a virtual environment:
     ```bash
@@ -105,11 +104,11 @@ This project relies entirely on OpenAI's GPT and DALL·E models for both text-ba
 
 3. Install dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install openai python-dotenv
 
 4. Set up environment variables in a .env file:
     ```bash
-    OPENAI_KEY=your_openai_api_key
+    OPENAI_KEY=your_key_here
 
 ## Usage
 - Run the script to generate an AI-enanced image and prompt:
