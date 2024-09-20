@@ -85,6 +85,7 @@ This project is a proof-of-concept demonstrating generative ai using programmed 
    
    Prompt: A supermassive calico cat, with vibrant patches of orange, black, and white fur, sits atop a cloud, its large, expressive eyes filled with curiosity and disappointment. Below, a sprawling steampunk city floats majestically in the sky, adorned with brass gears, intricate clockwork mechanisms, and billowing steam. Airships glide gracefully between towering spires, while whimsical contraptions dangle from the edges. The cat, with its oversized paws and fluffy tail, leans forward, peering down at the bustling city, its whiskers twitching in intrigue. The scene is bathed in a warm, golden light, casting a magical glow over the fantastical landscape.
 
+![example](https://github.com/user-attachments/assets/69f08e90-c8e4-4f63-851e-9858c89120e2)
 
 ## Built on OpenAI
 
